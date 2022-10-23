@@ -15,7 +15,6 @@ chmod +x install.sh
 
 ```
 
-
-**Keep safe & Enjoy I love you..**
+**My special ferson →Glyza akun bendi na sipat <3←**
 >**my github : https://github.com/poisk-ls**
 
