@@ -32,6 +32,6 @@ shell for termux,linux,macOS and the rest of I love you.
 >
 ><a href="https://t.me/poisLs"><img src="https://img.shields.io/badge/telegram-poiskLs-blue.svg">
 
-#### ____________________________________
+####  ____________________________________
 ![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
 #### ____________________________________
