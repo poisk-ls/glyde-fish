@@ -24,7 +24,7 @@ shell for termux,linux,macOS and the rest of I love you.
 >**Direct inbox**
 ><a href="https://m.me/speedy.mmsc80.thugs" target="_blank"><img src="https://img.shields.io/badge/Messenger-speedy.mmsc80.thugs-red?style=for-the-badge&logo=messenger"></a>
 >
->**<p align="left">Inbox me:</p>**
+>**<p align="left">My social acc:</p>**
 >**<p align="left">**
 ><a href="https://twitter.com/poisk_ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
 <a href="https://fb.com/speedy.mmsc80.thugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="speedy.mmsc80.thugs" height="30" width="40" /></a>
